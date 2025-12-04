@@ -1,12 +1,12 @@
 # Hi, I'm HuyenAnh Dinh! 👋
 
-I’m a third-year student majoring in Business Chinese, passionate about technology, UI/UX design, and digital content creation.  
+I’m a senior student majoring in Business Chinese, passionate about technology, UI/UX design, and digital content creation.  
 I’m currently building my portfolio, exploring the intersection between **design, communication, and business**, and aiming to create meaningful digital experiences.
 
 ![HuyenAnh Dinh](https://github-readme-stats.vercel.app/api?username=<HuyenAnh-Dinh>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
-- 🎓 Third-year student in Business Chinese (HSK5 - strong listening & speaking ability).
+- 🎓 Senior student in Business Chinese (HSK5 - strong listening & speaking ability).
 - 💻 Learning UI/UX Design and building a personal portfolio step by step.
 - 🎙 Building a podcast about sustainable living, creativity, and mindful lifestyle.
 - 🌱 Interested in tech trends and how technology shapes business & digital services.
