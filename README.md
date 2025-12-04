@@ -35,8 +35,7 @@ I’m currently building my portfolio, exploring the intersection between **desi
 ## 🛠 Tech & Tools
 [![My Skills](https://skillicons.dev/icons?i=figma,ae,ps,pr,ai,github,html,css,js)](https://skillicons.dev)
 
-
-<h2 align="center">👽 Where to find me 👽</h2>
+## 👽 Where to find me
 <br>
 <!-- https://icons8.com -->
 <div align="center">
